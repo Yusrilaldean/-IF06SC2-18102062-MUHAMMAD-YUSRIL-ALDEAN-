@@ -1,22 +1,30 @@
 package com.yusrilaldean_18102062.pertemuan6.adapter
 
+import android.content.Context
+import android.content.Intent
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.bumptech.glide.request.RequestOptions
+import com.yusrilaldean_18102062.pertemuan6.DetailActivity
 import com.yusrilaldean_18102062.pertemuan6.MyData
 import com.yusrilaldean_18102062.pertemuan6.R
 import kotlinx.android.synthetic.main.item_list.view.*
 
-class ListMyDataAdapter(private val listMyData: ArrayList<MyData>) :
+class ListMyDataAdapter(private val listMyData: ArrayList<MyData>, val context:Context) :
     RecyclerView.Adapter<ListMyDataAdapter.ListViewHolder>() {
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ListViewHolder {
         val view = LayoutInflater.from(parent.context).inflate(R.layout.item_list, parent, false)
         return ListViewHolder(view)
     }
     override fun onBindViewHolder(holder: ListViewHolder, position: Int) {
+        holder.itemView.setOnClickListener {
+            val moveWithObjectIntent = Intent(context, DetailActivity::class.java)
+            moveWithObjectIntent.putExtra(DetailActivity.EXTRA_MYDATA, listMyData[position])
+            context.startActivity(moveWithObjectIntent)
+        }
         holder.bind(listMyData[position])
     }
     override fun getItemCount(): Int = listMyData.size

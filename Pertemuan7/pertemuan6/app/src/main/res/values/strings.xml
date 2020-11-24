@@ -6,6 +6,14 @@
     <string-array name="data_name">
         <item>Wisata Pagubugan</item>
         <item>The Village Purwokerto</item>
+        <item>Bukit Sianco</item>
+        <item>Bukit Agaran</item>
+        <item>Bukit Banda</item>
+        <item>Wasiat Bukit Putri</item>
+        <item>Bukit Hud</item>
+        <item>Watu Meja</item>
+        <item>Taman Bunga Asmara Pantai Ambal, Kebumen</item>
+        <item>Small World Purwokerto</item>
     </string-array>
     <string-array name="data_description">
  <item>Berada di lereng Gunung Slamet, wisata Pagubugan akan membawa Anda merasakan betapa
@@ -22,9 +30,152 @@ mencuri perhatian begitu melangkahkan kaki ke sini. Ada beragam aktivitas yang b
 sini: naik perahu mengitari kanal buatan di sekitar taman rekreasi, memberi makan aneka binatang
 (burung, kelinci, sapi, domba), menunggang kuda, foto-foto dengan kostum Belanda, dan masih banyak
 lagi!</item>
+        <item>Kalau kamu termasuk orang dengan prinsip “apapun akan kutempuh demi sunset yang indah”, Bukit Sianco tidak boleh dilewatkan.
+Untuk sampai di sini, memang butuh perjuangan. Jalan menuju puncak bukit yang belum mulus, maka pastikan kendaraan kamu dalam kondisi yang prima ya. Selanjutnya pengunjung bisa melanjutkan dengan treking hingga sampai di puncak.
+Tapi tenang, perjuangan panjang kamu akan terbayar kok sesampainya di puncak bukit. Dari sini, kamu bisa memandangi lansekap kota yang indah bahkan laut pun bisa terlihat!</item>
+        <item>Ingin menikmati indahnya Purwokerto dari angle lain? Mampir saja ke Bukit Agaran yang menawarkan pemandangan menakjubkan Purwokerto dari atas!
+Di bukit ini tersedia banyak sekali spot foto yang bisa kamu manfaatkan untuk berfoto ria. Seperti misalnya replika tangan raksasa dan rumah cinta.</item>
+        <item>Berada di ketinggian 374 mdpl, Bukit Banda siap memberikan pemandangan memukau untukmu.
+Saatnya bangun dini hari dan berlomba menuju puncak Bukit Banda sebelum matahari terbit. Sebuah perjuangan memang, tapi percaya deh semua usaha kamu akan terbayar saat melihat lautan awan yang indah. Yup, pemandangan ini biasanya kamu temukan di Dieng tapi pesona negeri di atas awan ala Kebumen juga tidak kalah cantik lho.</item>
+        <item>Inilah salah satu desa tertinggi di Kebumen yang menyimpan harta tersembunyi berupa keindahan alam yang sangat indah.
+Tempat ini cocok untuk kamu yang ingin melepaskan penat dari rutinitas dan hiruk pikuk perkotaan. Hutan pinus yang masih asri membuat area Wasiat Bukit Putri terasa sejuk. Fasilitas di sini juga sudah lengkap. Mau cari warung hingga toilet juga ada.</item>
+        <item>Menikmati pemandangan alam pun bisa dengan gaya, dan bila kamu menyambangi Kebumen, berkunjung ke Bukit Hud menjadi keharusan.
+Dari puncak Bukit Hud, kamu akan mendapati hamparan Pantai Karangbolong dan Pantai Suwuk yang luar biasa, dengan Laut Selatan sebagai background.</item>
+        <item>Purwokerto memiliki spot istimewa untuk bisa menyaksikan pusat kota dan sekelilingnya dari ketinggian. Spot seru tersebut dinamai Watu Meja.
+Lokasinya berada di Bukit Badar, desa Tumiyang, Banyumas. Yang ditawarkan adalah lansekap alam perbukitan, Gunung Slamet dan aliran Sungai Serau.</item>
+        <item>Taman bunga ini berada tidak jauh dari pintu masuk Pantai Ambal. Luasnya, mencapai 600m2! Sejauh mata memandang seluruh sudutnya penuh dengan bunga berwarna-warni. Cantik dan romantis deh kalau bawa orang tersayang ke sini.
+Selain bisa berfoto di antara bunga pagoda, bunga kertas, dan bunga matahari, di sini juga sudah disediakan spot foto khusus untuk para pengunjung. Sebuah instalasi berbentuk hati lengkap dengan tulisan “Asmara” bisa kamu gunakan untuk berfoto atau melamar sang kekasih. Dijamin deh si dia langsung terima lamaran kamu!</item>
+        <item>Kapan kamu pernah Piramida, Mesir? Atau mendatangi Menara Pisa, Italia? Atau berpose di depan Gedung Putih?
+Jika ingin melakukannya, tapi tak memiliki dana yang cukup untuk pergi ke luar negeri, silakan mempertimbangkan untuk melipir ke Small World Purwokerto. Dengan biaya yang jauh lebih murah, kamu sudah bisa berswafoto dengan background bangunan ikon dunia tersebut.</item>
+
     </string-array>
     <string-array name="data_photo">
         <item>https://indonesia.tripcanvas.co/id/wp-content/uploads/sites/2/2019/09/18-1-by-@miftakhulmukhasin-@hengki_pamungkas-740x294.jpg</item>
         <item>https://indonesia.tripcanvas.co/id/wp-content/uploads/sites/2/2020/03/21-1-by-@lala_aml-@lina_nuraisyah-740x372.jpg</item>
+        <item>https://indonesia.tripcanvas.co/id/wp-content/uploads/sites/2/2020/03/13-1-Bukit-Sianco-by-dwiecahyo-740x555.jpg</item>
+        <item>https://indonesia.tripcanvas.co/id/wp-content/uploads/sites/2/2020/03/17-1-by-@biilliiaa-@lulu_luyas-@gensis_uye-740x740.jpg</item>
+        <item>https://indonesia.tripcanvas.co/id/wp-content/uploads/sites/2/2020/03/11-2-Bukit-Banda-by-rifkiantariksa-@-bong_bong08-@-rifkiantariksa-740x740.jpg</item>
+        <item>https://indonesia.tripcanvas.co/id/wp-content/uploads/sites/2/2020/03/12-1-Wasiat-Bukit-Putri-by-sudirno_said-@-lukman_banda-@-dolansadang.jpg</item>
+        <item>https://indonesia.tripcanvas.co/id/wp-content/uploads/sites/2/2020/03/11-1-by-joeluluk-740x416.jpg</item>
+        <item>https://indonesia.tripcanvas.co/id/wp-content/uploads/sites/2/2020/03/4-1-by-srigaluhw-740x493.jpg</item>
+        <item>https://indonesia.tripcanvas.co/id/wp-content/uploads/sites/2/2020/03/6-1-Taman-Bunga-Asmara-Pantai-Ambal-by-cutmiiemiie-@-auraniiii_-@-nadyapuspitasr_.jpg</item>
+        <item>https://indonesia.tripcanvas.co/id/wp-content/uploads/sites/2/2020/03/2-1-by-ari_sug-740x740.jpg</item>
     </string-array>
+    <string name="title_activity_detail">ScrollingActivity</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+    <string name="action_settings">Settings</string>
+    <string-array name="data_lat">
+        <item>-7.333797</item>
+        <item>-7.374473</item>
+        <item>-7.723151627210365</item>
+        <item>-7.339551558013836</item>
+        <item>-7.559653689626786</item>
+        <item>-7.480538331469491</item>
+        <item>-7.760233663820596</item>
+        <item>-7.518959411646504</item>
+        <item>-7.799574989175144</item>
+        <item>-7.331261471320967</item>
+    </string-array>
+
+    <string-array name="data_lang">
+        <item>109.206959</item>
+        <item>109.240532</item>
+        <item>109.40262392370275</item>
+        <item>109.20790159855348</item>
+        <item>109.71742939671094</item>
+        <item>109.74923805622485</item>
+        <item>109.46636393904308</item>
+        <item>109.21450319671051</item>
+        <item>109.72216587319761</item>
+        <item>109.22517269670855</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
 </resources>
