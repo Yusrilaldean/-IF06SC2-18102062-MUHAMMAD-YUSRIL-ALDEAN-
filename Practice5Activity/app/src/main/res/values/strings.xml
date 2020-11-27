@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Practice5Activity</string>
+    <string name="hint_input_prodi" />
+    <string name="btnProdi" />
+    <string name="btn_prodi">BAWA DATA PRODI KE ACTIVITY LAIN</string>
+    <string name="btn_call_browser">Panggil ittelkom-pwt.ac.id</string>
+    <string name="btn_call_camera">Panggil Kamera</string>
+    <string name="input_phone_number">Input Nomor Telepon</string>
+    <string name="btn_call_phone">Telepon</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btn_fragment">Buka Fragment Kedua</string>
+    <string name="fragment_first">Fragment Pertama</string>
+    <string name="input_nama">Masukan Nama</string>
+    <string name="input_nim">Masukan NIM</string>
+    <string name="btn_to_second_fragment">Buka Fragment Kedua</string>
+    <string name="fragment_second">Halaman Fragment Kedua</string>
+    <string name="btn_kembali_beranda">Kembali</string>
+</resources>
