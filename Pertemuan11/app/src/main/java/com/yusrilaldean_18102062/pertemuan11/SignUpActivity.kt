@@ -57,5 +57,7 @@ class SignUpActivity : AppCompatActivity(), View.OnClickListener {
             valid = false
         }
         else {
-            binding.inputPassword.error = null } return valid }
+            binding.inputPassword.error = null }
+        return valid
+    }
 }
