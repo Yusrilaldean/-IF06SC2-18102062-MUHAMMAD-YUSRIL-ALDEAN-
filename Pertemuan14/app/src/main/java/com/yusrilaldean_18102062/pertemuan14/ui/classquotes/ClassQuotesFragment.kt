@@ -1,4 +1,4 @@
-package com.yusrilaldean_18102062.pertemuan14.ui.dashboard
+package com.yusrilaldean_18102062.pertemuan14.ui.classquotes
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -10,7 +10,7 @@ import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
 import com.yusrilaldean_18102062.pertemuan14.R
 
-class DashboardFragment : Fragment() {
+class ClassQuotesFragment : Fragment() {
 
     private lateinit var dashboardViewModel: DashboardViewModel
 
@@ -21,7 +21,7 @@ class DashboardFragment : Fragment() {
     ): View? {
         dashboardViewModel =
                 ViewModelProvider(this).get(DashboardViewModel::class.java)
-        val root = inflater.inflate(R.layout.fragment_dashboard, container, false)
+        val root = inflater.inflate(R.layout.fragment_class_quotes, container, false)
         val textView: TextView = root.findViewById(R.id.text_dashboard)
         dashboardViewModel.text.observe(viewLifecycleOwner, Observer {
             textView.text = it

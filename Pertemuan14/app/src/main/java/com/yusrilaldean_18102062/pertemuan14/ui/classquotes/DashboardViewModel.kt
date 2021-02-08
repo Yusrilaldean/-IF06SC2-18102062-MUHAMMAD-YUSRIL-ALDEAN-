@@ -1,13 +1,13 @@
-package com.yusrilaldean_18102062.pertemuan14.ui.notifications
+package com.yusrilaldean_18102062.pertemuan14.ui.classquotes
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 
-class NotificationsViewModel : ViewModel() {
+class DashboardViewModel : ViewModel() {
 
     private val _text = MutableLiveData<String>().apply {
-        value = "This is notifications Fragment"
+        value = "This is dashboard Fragment"
     }
     val text: LiveData<String> = _text
 }
