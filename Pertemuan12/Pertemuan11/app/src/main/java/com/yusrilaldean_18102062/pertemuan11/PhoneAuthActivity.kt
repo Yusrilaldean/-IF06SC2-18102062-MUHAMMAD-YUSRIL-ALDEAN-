@@ -13,7 +13,7 @@ import com.google.firebase.ktx.Firebase
 import com.yusrilaldean_18102062.pertemuan11.databinding.ActivityPhoneAuthBinding
 import java.util.concurrent.TimeUnit
 
-class PhoneAuthActivity : AppCompatActivity() {
+class PhoneAuthActivity : AppCompatActivity(), View.OnClickListener {
     private lateinit var auth: FirebaseAuth
     private lateinit var binding: ActivityPhoneAuthBinding
     private var verificationInProgress = false
@@ -31,6 +31,7 @@ class PhoneAuthActivity : AppCompatActivity() {
         auth = Firebase.auth
         setContentView(R.layout.activity_phone_auth)
     }
+
     override fun onClick(view: View) {
         when (view.id) { R.id.btnVerify -> {
             val phoneNumber = binding.inputNumber.text.toString()
