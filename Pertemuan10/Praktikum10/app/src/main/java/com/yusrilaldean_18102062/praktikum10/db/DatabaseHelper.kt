@@ -10,11 +10,11 @@ internal class DatabaseHelper(context: Context) : SQLiteOpenHelper(context, DATA
         private const val DATABASE_NAME = "dbquoteapp"
         private const val DATABASE_VERSION = 5
         private const val SQL_CREATE_TABLE_QUOTE = "CREATE TABLE $TABLE_QUOTE" +
-                " (${DatabaseContract.QuoteColumns._ID}INTEGER PRIMARY KEY AUTOINCREMENT," +
-                " ${DatabaseContract.QuoteColumns.TITLE}TEXT NOT NULL," +
-                " ${DatabaseContract.QuoteColumns.DESCRIPTION}TEXT NOT NULL," +
-                " ${DatabaseContract.QuoteColumns.CATEGORY}TEXT NOT NULL," +
-                " ${DatabaseContract.QuoteColumns.DATE}TEXT NOT NULL)"
+                " (${DatabaseContract.QuoteColumns._ID} INTEGER PRIMARY KEY AUTOINCREMENT," +
+                " ${DatabaseContract.QuoteColumns.TITLE} TEXT NOT NULL," +
+                " ${DatabaseContract.QuoteColumns.DESCRIPTION} TEXT NOT NULL," +
+                " ${DatabaseContract.QuoteColumns.CATEGORY} TEXT NOT NULL," +
+                " ${DatabaseContract.QuoteColumns.DATE} TEXT NOT NULL)"
     }
 
     override fun onCreate(db: SQLiteDatabase?) {
