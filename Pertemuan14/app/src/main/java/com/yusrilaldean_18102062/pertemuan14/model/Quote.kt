@@ -1,9 +1,17 @@
 package com.yusrilaldean_18102062.pertemuan14.model
 
 import android.os.Parcelable
+<<<<<<< Updated upstream
 
 @Parcelizedata
 class Quote(
+=======
+import com.google.gson.annotations.SerializedName
+import kotlinx.android.parcel.Parcelize
+
+@Parcelize
+data class Quote(
+>>>>>>> Stashed changes
     @SerializedName("quote_id")
     var quote_id: String? = null,
     @SerializedName("user_name")
