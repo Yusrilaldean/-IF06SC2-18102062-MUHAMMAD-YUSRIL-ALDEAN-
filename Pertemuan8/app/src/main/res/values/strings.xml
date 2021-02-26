@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pertemuan8</string>
+    <string name="check_sms_permission">Check SMS</string>
+    <string name="coming_from" >Diterima Dari </string>
+    <string name="this_play">Isi Pesan</string>
+    <string name="close">Tutup</string>
+    <string name="incoming_message">Pesan Masuk</string>
+</resources>
