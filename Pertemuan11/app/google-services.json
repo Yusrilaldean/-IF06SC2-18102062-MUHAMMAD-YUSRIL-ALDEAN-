@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "455846367651",
+    "project_id": "fir-ppb2021-1b152",
+    "storage_bucket": "fir-ppb2021-1b152.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455846367651:android:bad53a3b7c2d93f2dd0a16",
+        "android_client_info": {
+          "package_name": "com.yusrilaldean_18102062.pertemuan11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455846367651-a51q595dr4orntjjbm9v1ene3pkh0ugu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaaT_g3052cmZHwUswF_-t_07_6NJI5zc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455846367651-a51q595dr4orntjjbm9v1ene3pkh0ugu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
